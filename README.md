@@ -14,9 +14,9 @@
 
 # -
 
-<a href="https://github.com/henriquestrada/github-readme-stats">
+<a href="https://github.com/HenriqueStrada/ProjetoJogoTresEmLinha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueStrada&repo=ProjetoJogoTresEmLinha&theme=synthwave" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/HenriqueStrada/JogoRPG">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueStrada&repo=JogoRPG&theme=synthwave" />
 </a>
