@@ -1,14 +1,20 @@
 # Hello, welcome to my git hub.
 
 <div>
-![Henrique GitHub stats](https://github-readme-stats.vercel.app/api?username=henriquestrada&show_icons=true&theme=synthwave&hide_border=true)
+  <a href="https://github.com/henriquestrada"><img src="https://github-readme-stats.vercel.app/api?username=henriquestrada&hide_border=true&show_icons=true&theme=synthwave" alt="henrique github status"></a>
+  <img src="https://github.com/HenriqueStrada/HenriqueStrada/assets/105132043/8a8ed0ec-7c9e-44a6-80f0-e3eb61477376"
+  alt="gif animado">
 </div>
+
+
+<div>
   <a href="https://github.com/henriquestrada">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=henriquestrada&theme=synthwave&hide_border=true&date_format=j%20M%5B%20Y%5D"
      href="https://github.com/henriquestrada">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquestrada&theme=synthwave&hide_border=true" alt="henrique github status">
   </a>
-  
+</div>
+
 ***  
 
 <h3>My programming languages</h3>
