@@ -1,4 +1,8 @@
-# Hello, welcome to my git hub.
+<div>
+<img src="https://github.com/HenriqueStrada/HenriqueStrada/assets/105132043/d69afcff-e121-4ec8-ad3a-1fb09093488b" width="900" height="300"alt="gif animado">
+</div>
+
+***
 
 <div>
   <a href="https://github.com/henriquestrada"><img src="https://github-readme-stats.vercel.app/api?username=henriquestrada&hide_border=true&show_icons=true&theme=synthwave" alt="henrique github status"></a>
