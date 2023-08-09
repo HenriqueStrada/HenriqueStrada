@@ -50,8 +50,8 @@
 <h3>My editing programs</h3>
 
 <div>
-    <img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
-    <img align="center" alt="Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-  badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
 </div>
 
 ***
