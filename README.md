@@ -16,6 +16,11 @@
   </a>
 </div>
 
+***
+
+# About Me.
+
+I like to study about programming, currently my studies are focused on Java, HTML, JavaScript, and MySQL. I have tastes in the areas of robotics, especially in the arduino platform, and knowledge about design (Photoshop and Premiere / Davinci)
 
 ***
 
