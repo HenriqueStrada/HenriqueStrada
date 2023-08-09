@@ -2,10 +2,7 @@
 
 <div>
   <a href="https://github.com/henriquestrada"><img src="https://github-readme-stats.vercel.app/api?username=henriquestrada&hide_border=true&show_icons=true&theme=synthwave" alt="henrique github status"></a>
-  <img src="https://github.com/HenriqueStrada/HenriqueStrada/assets/105132043/8a8ed0ec-7c9e-44a6-80f0-e3eb61477376"
-  alt="gif animado">
 </div>
-
 
 <div>
   <a href="https://github.com/henriquestrada">
@@ -13,6 +10,16 @@
      href="https://github.com/henriquestrada">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquestrada&theme=synthwave&hide_border=true" alt="henrique github status">
   </a>
+</div>
+
+
+***
+
+<h3>My systems</h3>
+
+<div>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"/>
 </div>
 
 ***  
@@ -35,6 +42,7 @@
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="Sub" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"/>
   <img align="center" alt="Arduino" src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  
 </div>
 
 ***
@@ -43,6 +51,7 @@
 
 <div>
     <img align="center" alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
+    <img align="center" alt="Premiere" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-  badge&logo=Adobe%20Premiere%20Pro&logoColor=white"/>
 </div>
 
 ***
@@ -56,3 +65,8 @@
 </a>
 
 ***
+
+<h3>Me</h3>
+<div>
+<img src="https://github.com/HenriqueStrada/HenriqueStrada/assets/105132043/8a8ed0ec-7c9e-44a6-80f0-e3eb61477376" width="200" height="200"alt="gif animado">
+</div>
