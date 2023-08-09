@@ -1,5 +1,5 @@
 <div>
-<img src="https://github.com/HenriqueStrada/HenriqueStrada/assets/105132043/d69afcff-e121-4ec8-ad3a-1fb09093488b" width="900" height="300"alt="gif animado">
+<img src="https://github.com/HenriqueStrada/HenriqueStrada/assets/105132043/68551441-89c4-4c90-b74c-199fceb43469" width="1000" height="333"alt="gif animado">
 </div>
 
 ***
