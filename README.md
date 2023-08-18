@@ -24,7 +24,7 @@ I like to study about programming, currently my studies are focused on Java, HTM
 
 ***
 
-<h3>My systems</h3>
+<h3>My systems.</h3>
 
 <div>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
@@ -33,7 +33,7 @@ I like to study about programming, currently my studies are focused on Java, HTM
 
 ***  
 
-<h3>My programming languages</h3>
+<h3>My programming languages.</h3>
 <div>
   <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=black"/>
   <img align="center" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -57,7 +57,7 @@ I like to study about programming, currently my studies are focused on Java, HTM
 
 ***
 
-<h3>My editing programs</h3>
+<h3>My editing programs.</h3>
 
 <div>
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
