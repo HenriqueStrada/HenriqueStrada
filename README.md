@@ -67,8 +67,8 @@ I like to study about programming, currently my studies are focused on Java, HTM
 ***
 
 # Main projects working at the moment
-<a href="https://github.com/HenriqueStrada/ProjetoJogoTresEmLinha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueStrada&repo=ProjetoJogoTresEmLinha&theme=synthwave" />
+<a href="https://github.com/HenriqueStrada/ProjetoSiteVendasSpring">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueStrada&repo=ProjetoSiteVendasSpring&theme=synthwave" />
 </a>
 <a href="https://github.com/HenriqueStrada/JogoRPG">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueStrada&repo=JogoRPG&theme=synthwave" />
