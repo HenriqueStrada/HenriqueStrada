@@ -5,7 +5,7 @@
 ***
 <div>
   <a href="https://github.com/henriquestrada">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquestrada&show_icons=true&theme=synthwave"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquestrada&show_icons=true&theme=synthwave" width="440"/>
 </a>
 </div>
 <div>
