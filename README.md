@@ -71,16 +71,6 @@ I like to study about programming, currently my studies are focused on Java, HTM
 
 ***
 
-# Main projects working at the moment
-<a href="https://github.com/HenriqueStrada/CalculadoraPrestativaSpringBoot">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueStrada&repo=CalculadoraPrestativaSpringBoot&theme=synthwave" />
-</a>
-<a href="https://github.com/HenriqueStrada/JogoRPG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HenriqueStrada&repo=JogoRPG&theme=synthwave" />
-</a>
-
-***
-
 <h3>Me</h3>
 <div>
 <img src="https://github.com/HenriqueStrada/HenriqueStrada/assets/105132043/8a8ed0ec-7c9e-44a6-80f0-e3eb61477376" width="200" height="200"alt="gif animado">
