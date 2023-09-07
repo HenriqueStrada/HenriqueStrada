@@ -3,16 +3,21 @@
 </div>
 
 ***
+<div>
+  <a href="https://github.com/henriquestrada">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquestrada&show_icons=true&theme=synthwave"/>
+</a>
+</div>
+<div>
+  <a href="https://github.com/henriquestrada">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=henriquestrada&show_icons=true&theme=synthwave&date_format=j%20M%5B%20Y%5D"/>
+</a>
+<a href="https://github.com/henriquestrada">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquestrada&layout=compact&show_icons=true&theme=synthwave" width="358"/>
+</a>
 
-<a href="https://github.com/henriquestrada">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquestrada&show_icons=true&theme=synthwave" width="330" />
-</a>
-<a href="https://github.com/henriquestrada">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquestrada&layout=compact&show_icons=true&theme=synthwave"width="290" />
-</a>
-<a href="https://github.com/henriquestrada">
-  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=henriquestrada&show_icons=true&theme=synthwave&date_format=j%20M%5B%20Y%5D" width="350" />
-</a>
+</div>
+
 
 ***
 
