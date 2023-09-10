@@ -7,8 +7,8 @@
 
 # Read this document in other languages:
 
-- [English](README.md)
 - [Português](README-pt.md)
+- [English](README.md)
 
 ***
 
