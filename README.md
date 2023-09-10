@@ -1,8 +1,17 @@
+
 <div>
 <img src="https://github.com/HenriqueStrada/HenriqueStrada/assets/105132043/68551441-89c4-4c90-b74c-199fceb43469" width="1000" height="333"alt="gif animado">
 </div>
 
 ***
+
+# Read this document in other languages:
+
+- English
+- Português
+
+***
+
 <div>
   <a href="https://github.com/henriquestrada">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquestrada&show_icons=true&theme=synthwave" width="440"/>
