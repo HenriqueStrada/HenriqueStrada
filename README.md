@@ -5,7 +5,7 @@
 
 ***
 
-# Read this document in other languages:
+# Read this document in other languages!
 
 - [Português](README-pt.md)
 - [English](README.md)
