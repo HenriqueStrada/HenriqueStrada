@@ -5,7 +5,7 @@
 
 ***
 
-# Leia este documento em outras linguagens:
+# Leia este documento em outras linguagens!
 
 - [English](README.md)
 - [Português](README-pt.md)
