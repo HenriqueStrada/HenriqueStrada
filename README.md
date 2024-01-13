@@ -16,15 +16,14 @@
   <a href="https://github.com/henriquestrada">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriquestrada&show_icons=true&theme=synthwave" width="440"/>
 </a>
-</div>
-<div>
+<!-- <div>
   <a href="https://github.com/henriquestrada">
   <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=henriquestrada&show_icons=true&theme=synthwave&date_format=j%20M%5B%20Y%5D" width="440"/>
 </a>
+</div> -->
 <a href="https://github.com/henriquestrada">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquestrada&layout=compact&show_icons=true&theme=synthwave" width="320"/>
 </a>
-
 </div>
 
 
